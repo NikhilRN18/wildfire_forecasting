@@ -7,7 +7,7 @@ setup(
     author="Ioannis Prapas, Spyros Kondylatos",
     author_email="",
     url="https://github.com/Orion-AI-Lab/daily-wildfire-danger",
-    install_requires=["pytorch-lightning>=1.2.0", "hydra-core>=1.0.6", "torch==1.12.0", "torchvision==0.9.1",
+    install_requires=["pytorch-lightning>=1.2.0", "hydra-core>=1.0.6", "torch==1.12.0", "torchvision==0.1.6",
                       "pytorch-lightning==1.5.8", "fastai==2.5.2"],
     packages=find_packages(),
 )
